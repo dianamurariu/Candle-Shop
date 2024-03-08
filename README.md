@@ -4,7 +4,7 @@ Welcome to the Online Candle Shop, a React-based e-commerce project built with T
 
 ## Live Demo 
 
-Check out the live demo of the Todo App [here](https://candleaf-3baglgipb-dianamurarius-projects.vercel.app).
+Check out the live demo of the Candle Shop [here](https://candleaf-3baglgipb-dianamurarius-projects.vercel.app).
 
 ## Features
 
