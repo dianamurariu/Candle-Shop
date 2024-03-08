@@ -1,49 +1,43 @@
-Live demo : https://candleaf-3baglgipb-dianamurarius-projects.vercel.app
+# Candle Shop
 
+Welcome to the Online Candle Shop, a React-based e-commerce project built with TypeScript, Redux, HTML and CSS. This project provides a delightful shopping experience with multiple pages and real-world functionality.
 
-# Getting Started with Create React App
+## Live Demo 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out the live demo of the Todo App [here](https://candleaf-3baglgipb-dianamurarius-projects.vercel.app).
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Homepage:** Explore a variety of candles.
+- **Single Product Page:** View details of a specific candle.
+- **Cart:** Add products, adjust quantities and update prices dynamically.
+- **Checkout:** Seamless flow with multiple subpages - Details, Shipping, Payment and Confirmation.
+- **Language Button:** Toggle between English and Spanish translations.
+- **Persistent Data:** Information persists across pages for a smooth user experience.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React
+- TypeScript
+- Redux
+- HTML
+- CSS
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Installation
 
-### `npm test`
+1. Clone the repository:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+   ```bash
+   git clone https://github.com/dianamurariu/Candle-Shop.git
 
-### `npm run build`
+2. Navigate to the project directory:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    cd Candle-Shop
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. Install dependencies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    npm install
 
-### `npm run eject`
+5. Run the development server:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+    npm start
